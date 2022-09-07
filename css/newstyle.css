@@ -69,7 +69,7 @@ left: 0px;
 }
 #home::before{
     content: "";
-   background: url(display2.image.jpg) no-repeat center center/cover;
+   background: url(backg.webp) no-repeat center center/cover;
 position: absolute;
 height: 642px;
 width: 100%;

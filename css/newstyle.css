@@ -155,7 +155,7 @@ left: 0px;
 #client-section::before{
     content: "";
     position: absolute;
-    background: url('display2.image.jpg') no-repeat center center/cover;
+    background: url('display2image.jpg') no-repeat center center/cover;
     width: 100%;
     height: 400px;
     z-index: -1;
